@@ -24,11 +24,11 @@
             <div class="container-fluid border border-dark b-5">
                 <div class="row">
                     <div class="col-4 d-flex justify-content-center align-items-center bg-dark">
-                        <img class="img-fluid" src="imageforyou.jpg" style="height: 200px;"/>
+                        <img class="img-fluid" src="shrek5-removebg-preview.png" style="height: 200px;"/>
                     </div>
                     <div class="col-8">
                         <div class="row bg-secondary text-light p-5">
-                            <div class="col-4">Nevin Galang</div>
+                            <div class="col-4">Halden Niguidula</div>
                             <div class="col-8">FB IG YT Web LinkedIn</div>
                         </div>
                        
@@ -42,13 +42,13 @@
                             <div class="col-3 bg-warning p-5">PHP</div>
                             <div class="col-3 bg-danger p-5">MYSQL</div>
                         </div>    
-                        <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                    </div>
         </div>
       </div>
     </div>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+    <button type="button" class="btn btn-primary">Save changes</button>
   </div>
     <script src="./js/bootstrap.bundle.min.js"></script>
 </body>
